@@ -1,3 +1,13 @@
+## To Run This Project
+
+After cloning the repository, from the project directory run:
+
+### `npm install`
+### `node server.js`
+and finally
+### `npm start`
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
