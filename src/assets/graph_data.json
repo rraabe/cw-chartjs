@@ -1,0 +1,52 @@
+[
+  {
+    "value": 529,
+    "label": "Motor Vehicle Complaint",
+    "color": "#ddddff"
+  },
+  {
+    "value": 345,
+    "label": "Medical",
+    "color": "#ddffcc"
+  },
+  {
+    "value": 300,
+    "label": "Administrative",
+    "color": "#ffeeee"
+  },
+  {
+    "value": 256,
+    "label": "Assist",
+    "color": "#ffeebb"
+  },
+  {
+    "value": 189,
+    "label": "Quality of Life",
+    "color": "#b6e7e1"
+  },
+  {
+    "value": 187,
+    "label": "Fire",
+    "color": "#ff99cc"
+  },
+  {
+    "value": 176,
+    "label": "Patrol",
+    "color": "#ffff99"
+  },
+  {
+    "value": 174,
+    "label": "Accident",
+    "color": "#b1b1cc"
+  },
+  {
+    "value": 152,
+    "label": "Alarm",
+    "color": "#b1cca3"
+  },
+  {
+    "value": 140,
+    "label": "Animals",
+    "color": "#ccbebe"
+  }
+]
